@@ -9,9 +9,6 @@ A Java developer with more than three years of working experience, I am currentl
 - 👯 I’m looking to collaborate on same camp
 - 📫 How to reach me: [cccy0@foxmail.com](mailto:cccy0@foxmail.com) -->
 
-<div style="display:flex;align:center;">
-Read more about
-<a href="https://blog.cccy.top/" target="_blank">
-<img src="https://img.shields.io/badge/Cccy0%20Blog--lightgrey?style=social&logo=notion" style="vertical-align: middle;">
-</a>
-</div>
+
+[![](https://img.shields.io/badge/Read%20more%20about%20cccy0%20blog--lightgrey?style=social&logo=notion)](https://blog.cccy0.top/)
+
