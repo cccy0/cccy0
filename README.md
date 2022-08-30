@@ -4,10 +4,14 @@
 
 A Java developer with more than three years of working experience, I am currently doing education related work .
 
-- Read more about my [Blog](https://cccy.site/)
-
 - 🔭 I’m currently working on ShangHai
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on same camp
-- 📫 How to reach me: [cccy0@foxmail.com](mailto:cccy0@foxmail.com) 
--->
+- 📫 How to reach me: [cccy0@foxmail.com](mailto:cccy0@foxmail.com) -->
+
+<div style="display:flex;align:center;">
+Read more about
+<a href="https://blog.cccy.top/" target="_blank">
+<img src="https://img.shields.io/badge/Cccy0%20Blog--lightgrey?style=social&logo=notion">
+</a>
+</div>
