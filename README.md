@@ -12,6 +12,6 @@ A Java developer with more than three years of working experience, I am currentl
 <div style="display:flex;align:center;">
 Read more about
 <a href="https://blog.cccy.top/" target="_blank">
-<img src="https://img.shields.io/badge/Cccy0%20Blog--lightgrey?style=social&logo=notion">
+<img src="https://img.shields.io/badge/Cccy0%20Blog--lightgrey?style=social&logo=notion" style="vertical-align: middle;">
 </a>
 </div>
